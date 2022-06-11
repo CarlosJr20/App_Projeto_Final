@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--Personalizar Cor do App-->
+    <color name="colorPrimary">#9C27B0</color>
+    <color name="colorPrimaryDark">#9C27B0</color>
+    <color name="colorAccent">#9C27B0</color>
+    <!--Personalizar cor da borda-->
+    <color name="colorBorda">#9C27B0</color>
+    <!--Personalizar cor de fundo App-->
+    <color name="colorFundo">#FEFFFF</color>
+</resources>
